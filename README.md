@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Data Science and Machine learning
 
-- 🌱 I’m currently learning **Python pandas, numpy and sklearn**
+- 🌱 I’m currently learning **Python pandas, numpy and scikit-learn**
 
 - 📫 How to reach me **dariaglebova00@gmail.com**
 
