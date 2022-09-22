@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm @garia-glebova</h1>
 <h3 align="center">A passionate data Analyst intern originally from Russia and currently located in the United Kingdom.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daria-glebova&label=Profile%20views&color=0e75b6&style=flat" alt="daria-glebova" /> </p>
 
 - 👀 I’m interested in Data Science and Machine learning
 
