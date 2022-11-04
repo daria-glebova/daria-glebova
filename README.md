@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently learning at [Yandex Practicum Bootcamp](https://practicum.yandex.ru/data-analyst-bootcamp/)
 
-- 🌱 I’m currently learning **Python pandas, Tableau & Probability theory!**
+- 🌱 I’m learning **Python pandas, Tableau & Probability theory!**
 
 - 📫 How to reach me **dariaglebova00@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1xq7sArMsDFvepT-NJX2rFGHRxKNgq_iE/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1mv0oc9MIUjSDn77yn2nZ4GuL7Zjcon9D/view?usp=share_link)
 
 - 🧶 Fun fact: **I love crocheting** :)
 
