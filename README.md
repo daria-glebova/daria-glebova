@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning at [Yandex Practicum Bootcamp](https://practicum.yandex.ru/data-analyst-bootcamp/)
 
-- 🌱 I’m learning **Python pandas, Tableau & Probability theory!**
+- 🌱 I’m study **Python pandas, Tableau & Probability theory!**
 
 - 📫 How to reach me **dariaglebova00@gmail.com**
 
