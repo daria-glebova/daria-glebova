@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **dariaglebova00@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1r2ARdHWansO231zHmohTuRKhu-MTtlQB/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1HexCrgUzvWVuNUJwYPtpgbZDr9RwRzTz/view?usp=sharing)
 
-- 🧶 Fun fact: **I love crocheting** :)
+- 🧶 Fun fact: **I'm crocheting fan** :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
