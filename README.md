@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dariaglebova00@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1HexCrgUzvWVuNUJwYPtpgbZDr9RwRzTz/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/11DgM_TNFS1dmyLZ3xBz4TTsiYkTw-vk7/view?usp=share_link)
 
 - 🧶 Fun fact: **I'm crocheting fan** :)
 
