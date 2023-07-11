@@ -1,9 +1,11 @@
 <h1 align="center">Hi there👋, I'm @garia-glebova</h1>
 <h3 align="center">A passionate Data Analyst enthusiast originally from Russia and currently located in the United Kingdom.</h3>
 
-- 🔭 I’ve finished Data Analysis [Yandex Practicum Bootcamp](https://practicum.yandex.ru/data-analyst-bootcamp/)
+- 📈 I work as a Product Analyst at [FlippingBook](https://flippingbook.com/) 
 
-- 🥅 2023 Goal: **Get my first commercial job** in DS/DA
+- 🎓 Data Analysis [Yandex Practicum Bootcamp](https://practicum.yandex.ru/data-analyst-bootcamp/) and [Higher School of Economics](https://www.hse.ru/en/) graduate 
+
+- 🔎 Actively study Mixpanel, SQL and Probability Theory
 
 - 📫 How to reach me **dariaglebova00@gmail.com**
 
