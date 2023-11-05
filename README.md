@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dariaglebova00@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/11DgM_TNFS1dmyLZ3xBz4TTsiYkTw-vk7/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1xkgtk292xQ2kxl0_JCF6XadkL4rv8wsE/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
